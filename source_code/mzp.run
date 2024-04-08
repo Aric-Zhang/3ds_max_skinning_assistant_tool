@@ -1,0 +1,7 @@
+name "mzp_test"
+
+treecopy skin_folder $scripts
+copy *.ms to $scripts\\skin_folder
+copy *.mcr to $scripts\\skin_folder
+
+run "$scripts\\skin_folder\\test_cn.mcr"

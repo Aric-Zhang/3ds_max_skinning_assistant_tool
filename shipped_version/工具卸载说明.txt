@@ -1,0 +1,2 @@
+在max的usermarco文件夹下，找到_ZZS_Skin_Util-Macro_Script.mcr，删除。
+在max根目录scripts文件夹下，找到skin_folder文件夹，全部删除。
